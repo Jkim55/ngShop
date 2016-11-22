@@ -1,4 +1,4 @@
-angular.module('ngShop', ['ngRoute'])
+angular.module('ngShop', ['ngRoute', 'ui.bootstrap'])
 
 angular.module('ngShop').config(function($routeProvider, $locationProvider) {
   $routeProvider
