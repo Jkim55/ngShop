@@ -1,4 +1,4 @@
-angular.module('ngShop', ['ng-route'])
+angular.module('ngShop', ['ngRoute'])
 
 angular.module('ngShop').config(function($routeProvider, $locationProvider) {
   $routeProvider
